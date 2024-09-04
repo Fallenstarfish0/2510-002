@@ -1,0 +1,21 @@
+Assignment 2
+
+1. 
+   i.cd confused-carnival-Fallenstarfish0/carnival
+   ii.ls
+   iii. cat guest1.txt
+2.
+   i. mkdir grand_hall
+   ii.  mv conductor.txt ~/confused-carnival-Fallenstarfish0/carnival/grand_hall
+   iii. mv band ~/confused-carnival-Fallenstarfish0/carnival/grand_hall
+   iv. ls -a
+   v. rm .rat.txt
+   vi. find . -name "*.txt" -exec sed -i 's/disappointed/happy/g' {} \;
+
+3. 
+   i.
+   ii.
+   iii.
+4.
+   i. find -name "*.txt"
+   ii. histroy -4
